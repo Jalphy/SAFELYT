@@ -1,2 +1,2 @@
 # SAFELYT
-A privacy check app which analyses all the installed apps in your phone and tells you whichever apps run in the background unusually with description. It also recommends some safe similar apps.
+An Android privacy awareness app that scans installed applications, detects suspicious permissions, and alerts users about potential privacy risks. Helps users understand and control what data their apps can access.
