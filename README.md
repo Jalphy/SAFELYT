@@ -1,2 +1,2 @@
 # SoundSense
-An Android privacy awareness app that scans installed applications, detects suspicious permissions, and alerts users about potential privacy risks. Helps users understand and control what data their apps can access.
+SoundSense is an offline, AI-powered mobile safety application designed for people who are deaf or hard of hearing. It detects critical Indian street danger sounds such as horns and sirens, and converts them into intuitive vibration patterns and visual alerts, ensuring privacy, reliability, and real-time safety without internet connectivity.
